@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem; // Подключаем новую систему ввода
 
 public class PlayerController : MonoBehaviour
 {
@@ -8,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
 
     private Vector2 moveInput;
-    private Vector2 lastMoveDirection = Vector2.down;
+    private Vector2 lastMoveDirection = Vector2.down; // По умолчанию смотрим вниз
 
     private void Awake()
     {
@@ -16,48 +17,41 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
+    // Этот метод вызывается автоматически новой системой ввода (экшен должен называться "Move")
+    private void OnMove(InputValue value)
+    {
+        // Получаем вектор направления из кнопок WASD
+        moveInput = value.Get<Vector2>();
+    }
+
     private void Update()
     {
-        float moveX = Input.GetAxisRaw("Horizontal");
-        float moveY = Input.GetAxisRaw("Vertical");
-
-        Vector2 rawInput = new Vector2(moveX, moveY);
-
-        bool isMoving = rawInput.sqrMagnitude > 0.01f;
-
+        bool isMoving = moveInput.sqrMagnitude > 0.01f;
         animator.SetBool("IsMoving", isMoving);
 
         if (isMoving)
         {
-            // Направление движения
-            moveInput = rawInput.normalized;
-
-            // Передаем направление в Walk Blend Tree
+            // Передаем текущее направление для анимации ходьбы
             animator.SetFloat("MoveX", moveInput.x);
             animator.SetFloat("MoveY", moveInput.y);
 
-            // Запоминаем последнее направление
+            // Запоминаем это направление
             lastMoveDirection = moveInput;
-
-            // Передаем последнее направление в Idle Blend Tree
-            animator.SetFloat("LastMoveX", lastMoveDirection.x);
-            animator.SetFloat("LastMoveY", lastMoveDirection.y);
         }
         else
         {
-            moveInput = Vector2.zero;
-
+            // Если стоим, обнуляем текущую ходьбу
             animator.SetFloat("MoveX", 0f);
             animator.SetFloat("MoveY", 0f);
-
-            // LastMoveX и LastMoveY НЕ меняем
         }
+
+        // Постоянно передаем последнее направление, чтобы Idle Blend Tree знал, куда смотреть
+        animator.SetFloat("LastMoveX", lastMoveDirection.x);
+        animator.SetFloat("LastMoveY", lastMoveDirection.y);
     }
 
     private void FixedUpdate()
     {
-        rb.MovePosition(
-            rb.position + moveInput * moveSpeed * Time.fixedDeltaTime
-        );
+        rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }
 }
