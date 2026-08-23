@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: b3dc502b110cc0641aa77c448f689f8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5017360959119143155
+    second: Slays 1_0
+  - first:
+      213: 4731832932515542365
+    second: Slays 1_1
+  - first:
+      213: -6433685433340599146
+    second: Slays 1_2
+  - first:
+      213: -2453546569603313108
+    second: Slays 1_3
+  - first:
+      213: 2681272367042865258
+    second: Slays 1_4
+  - first:
+      213: 384473662805268580
+    second: Slays 1_5
+  - first:
+      213: -7995994901837292111
+    second: Slays 1_6
+  - first:
+      213: 3816194104520168678
+    second: Slays 1_7
+  - first:
+      213: -8457100838736594764
+    second: Slays 1_8
+  - first:
+      213: -8018767076066467374
+    second: Slays 1_9
+  - first:
+      213: 6581732232586010946
+    second: Slays 1_10
+  - first:
+      213: -5240092891509942832
+    second: Slays 1_11
+  - first:
+      213: 1446817576270725701
+    second: Slays 1_12
+  - first:
+      213: 4161594412071212980
+    second: Slays 1_13
+  - first:
+      213: 2587541675264456056
+    second: Slays 1_14
+  - first:
+      213: 7329157351853194349
+    second: Slays 1_15
+  - first:
+      213: -6918224053428597761
+    second: Slays 1_16
+  - first:
+      213: 3737215081199103805
+    second: Slays 1_17
+  - first:
+      213: 1363901156152608170
+    second: Slays 1_18
+  - first:
+      213: 7487485441653806411
+    second: Slays 1_19
+  - first:
+      213: -8272970047747075464
+    second: Slays 1_20
+  - first:
+      213: 1605714403497338210
+    second: Slays 1_21
+  - first:
+      213: -1599177921269346407
+    second: Slays 1_22
+  - first:
+      213: -3793516719193359617
+    second: Slays 1_23
+  - first:
+      213: -3417560863337054257
+    second: Slays 1_24
+  - first:
+      213: -4077063025765068526
+    second: Slays 1_25
+  - first:
+      213: -7776900549528762981
+    second: Slays 1_26
+  - first:
+      213: 4672791611132516854
+    second: Slays 1_27
+  - first:
+      213: 6229905823679399185
+    second: Slays 1_28
+  - first:
+      213: -919167169186594349
+    second: Slays 1_29
+  - first:
+      213: 7587725039504896085
+    second: Slays 1_30
+  - first:
+      213: 5867449407054257440
+    second: Slays 1_31
+  - first:
+      213: -5233979141369924831
+    second: Slays 1_32
+  - first:
+      213: 4061260479823830919
+    second: Slays 1_33
+  - first:
+      213: -5101943839461485825
+    second: Slays 1_34
+  - first:
+      213: 6867211446726096302
+    second: Slays 1_35
+  - first:
+      213: -4962337067305066610
+    second: Slays 1_36
+  - first:
+      213: 7434114022129419289
+    second: Slays 1_37
+  - first:
+      213: -6377641109608578544
+    second: Slays 1_38
+  - first:
+      213: -895591124093231786
+    second: Slays 1_39
+  - first:
+      213: 2930792573490183684
+    second: Slays 1_40
+  - first:
+      213: 2110048612287235830
+    second: Slays 1_41
+  - first:
+      213: -2485971798716217863
+    second: Slays 1_42
+  - first:
+      213: -3551224252174025771
+    second: Slays 1_43
+  - first:
+      213: 1435001811486234511
+    second: Slays 1_44
+  - first:
+      213: 1670671689233753178
+    second: Slays 1_45
+  - first:
+      213: -8016963754534434169
+    second: Slays 1_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slays 1_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 816
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0b53e853f31a540800000000000000
+      internalID: 5017360959119143155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 815
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5575175bf8daa140800000000000000
+      internalID: 4731832932515542365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 815
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6829a7030bc53520800000000000000
+      internalID: 2681272367042865258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 814
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468500162cce55500800000000000000
+      internalID: 384473662805268580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_6
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 815
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd572a5005880190800000000000000
+      internalID: -7995994901837292111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 694
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87275489752aa80800000000000000
+      internalID: -8457100838736594764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 693
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e57e54dd97b090800000000000000
+      internalID: -8018767076066467374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 694
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24127021892075b50800000000000000
+      internalID: 6581732232586010946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_12
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 693
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54288688be0241410800000000000000
+      internalID: 1446817576270725701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_13
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 694
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b751c69114f0c930800000000000000
+      internalID: 4161594412071212980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 540
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cf62ca7c566b560800000000000000
+      internalID: 7329157351853194349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 532
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fea14d0514dd330800000000000000
+      internalID: 3737215081199103805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 533
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5883110ec8de210800000000000000
+      internalID: 1363901156152608170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 539
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b451faab654e8e760800000000000000
+      internalID: 7487485441653806411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 541
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265ef271eb4a84610800000000000000
+      internalID: 1605714403497338210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 375
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf748670826290d0800000000000000
+      internalID: -3417560863337054257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 373
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954ccb6726e21490800000000000000
+      internalID: -7776900549528762981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 374
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f99afa763719d040800000000000000
+      internalID: 4672791611132516854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 367
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1154c84d652157650800000000000000
+      internalID: 6229905823679399185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_29
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 366
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d18e6f54567e33f0800000000000000
+      internalID: -919167169186594349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 185
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2d7e8fb114239b0800000000000000
+      internalID: -5101943839461485825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 189
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f17879abc322bb0800000000000000
+      internalID: -4962337067305066610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 190
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91446c4c0574b2760800000000000000
+      internalID: 7434114022129419289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_38
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 189
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0124ad473311e77a0800000000000000
+      internalID: -6377641109608578544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_39
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 188
+        width: 63
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d1e602e983293f0800000000000000
+      internalID: -895591124093231786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_40
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 184
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3c3d41544ca820800000000000000
+      internalID: 2930792573490183684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_41
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 15
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6cf2a8806684d10800000000000000
+      internalID: 2110048612287235830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 21
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f581eff1dd008dd0800000000000000
+      internalID: -2485971798716217863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_43
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 24
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db3a6b9b5487bec0800000000000000
+      internalID: -3551224252174025771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_44
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 21
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87dda96b862ae310800000000000000
+      internalID: 1435001811486234511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_45
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 15
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54641dbc0b6f2710800000000000000
+      internalID: 1670671689233753178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slays 1_46
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 17
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0bc1e0f50eb090800000000000000
+      internalID: -8016963754534434169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 97c50a5c5da74cb468f11e32d18aa214
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slays 1_0: 5017360959119143155
+      Slays 1_1: 4731832932515542365
+      Slays 1_10: 6581732232586010946
+      Slays 1_11: -5240092891509942832
+      Slays 1_12: 1446817576270725701
+      Slays 1_13: 4161594412071212980
+      Slays 1_14: 2587541675264456056
+      Slays 1_15: 7329157351853194349
+      Slays 1_16: -6918224053428597761
+      Slays 1_17: 3737215081199103805
+      Slays 1_18: 1363901156152608170
+      Slays 1_19: 7487485441653806411
+      Slays 1_2: -6433685433340599146
+      Slays 1_20: -8272970047747075464
+      Slays 1_21: 1605714403497338210
+      Slays 1_22: -1599177921269346407
+      Slays 1_23: -3793516719193359617
+      Slays 1_24: -3417560863337054257
+      Slays 1_25: -4077063025765068526
+      Slays 1_26: -7776900549528762981
+      Slays 1_27: 4672791611132516854
+      Slays 1_28: 6229905823679399185
+      Slays 1_29: -919167169186594349
+      Slays 1_3: -2453546569603313108
+      Slays 1_30: 7587725039504896085
+      Slays 1_31: 5867449407054257440
+      Slays 1_32: -5233979141369924831
+      Slays 1_33: 4061260479823830919
+      Slays 1_34: -5101943839461485825
+      Slays 1_35: 6867211446726096302
+      Slays 1_36: -4962337067305066610
+      Slays 1_37: 7434114022129419289
+      Slays 1_38: -6377641109608578544
+      Slays 1_39: -895591124093231786
+      Slays 1_4: 2681272367042865258
+      Slays 1_40: 2930792573490183684
+      Slays 1_41: 2110048612287235830
+      Slays 1_42: -2485971798716217863
+      Slays 1_43: -3551224252174025771
+      Slays 1_44: 1435001811486234511
+      Slays 1_45: 1670671689233753178
+      Slays 1_46: -8016963754534434169
+      Slays 1_5: 384473662805268580
+      Slays 1_6: -7995994901837292111
+      Slays 1_7: 3816194104520168678
+      Slays 1_8: -8457100838736594764
+      Slays 1_9: -8018767076066467374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
